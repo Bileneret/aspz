@@ -1,0 +1,16 @@
+Reading symbols from ./task24...
+Attaching to program: /home/bileneret/Desktop/C/Prakt2/2.4/task24, process 17484
+Reading symbols from /lib/x86_64-linux-gnu/libc.so.6...
+Reading symbols from /usr/lib/debug/.build-id/42/c84c92e6f98126b3e2230ebfdead22c235b667.debug...
+Reading symbols from /lib64/ld-linux-x86-64.so.2...
+Reading symbols from /usr/lib/debug/.build-id/1c/8db5f83bba514f8fd5f1fb6d7be975be1bb855.debug...
+[Thread debugging using libthread_db enabled]
+Using host libthread_db library "/lib/x86_64-linux-gnu/libthread_db.so.1".
+0x00007911964fa3d4 in __libc_pause () at ../sysdeps/unix/sysv/linux/pause.c:29
+#0  0x00007911964fa3d4 in __libc_pause () at ../sysdeps/unix/sysv/linux/pause.c:29
+#1  0x0000616871fc2224 in inner_pause () at task24.c:11
+#2  0x0000616871fc228c in middle_layer () at task24.c:17
+#3  0x0000616871fc22f4 in start_process () at task24.c:23
+#4  0x0000616871fc235c in main () at task24.c:29
+Detaching from program: /home/bileneret/Desktop/C/Prakt2/2.4/task24, process 17484
+[Inferior 1 (process 17484) detached]
