@@ -1,0 +1,21 @@
+gcc -o last last.c              // компиляція
+
+./last read.txt                 // вивести 10 рядків (базово)
+
+./last -n 5 -r input.txt        // вивести останні 5 рядків у зворотному порядку
+
+./last                          // читати зі стандартного вводу (введіть текст, завершите Ctrl+D)
+
+Fish text:
+Mattis ornare luctus quis, platea augue mattis libero, urna lectus eget mauris ipsum lectus sapien non malesuada non interdum imperdiet efficitur nulla venenatis adipiscing imperdiet cras sapien mauris mollis nisi elit. Et ornare consectetur augue sit sit lectus malesuada amet, est. Mattis amet mattis justo sed sit cras nec nec malesuada orci, mattis sit amet, ornare risus mollis augue justo amet, augue et. Et. Tempus luctus adipiscing malesuada mattis nisi hac velit lorem mauris lacinia cursus efficitur habitasse venenatis sit lacinia sit in et lectus et ut. Odio. Augue luctus orci, sit integer morbi ex. Mauris imperdiet eleifend sed matti.
+
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
