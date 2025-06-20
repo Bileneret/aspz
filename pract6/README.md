@@ -20,8 +20,8 @@
 
 ## [Код завдання](task61.c)
 
-![](6.1/part1.png)
-![](6.1/part2.png)
-![](6.1/part3.png)
-![](6.1/part4.png)
-![](6.1/part5.png)
+![](part1.png)
+![](part2.png)
+![](part3.png)
+![](part4.png)
+![](part5.png)
