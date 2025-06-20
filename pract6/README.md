@@ -24,4 +24,4 @@
 ![](6.1/part2.png)
 ![](6.1/part3.png)
 ![](6.1/part4.png)
-
+![](6.1/part5.png)
