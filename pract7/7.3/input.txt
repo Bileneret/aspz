@@ -1,0 +1,5 @@
+Hello world!
+Test text.
+Pattern matching line
+Line with pattern
+QWEPattern
